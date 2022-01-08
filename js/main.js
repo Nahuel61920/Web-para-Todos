@@ -1,10 +1,10 @@
 const typed = new Typed('.typed', {
     strings: [
-        '<i class="mascota"> HTML5 </i> ',
-        '<i class="mascota"> CSS3 </i> ', 
-        '<i class="mascota"> Sass </i> ', 
-        '<i class="mascota"> Bootstrap </i>',
-        '<i class="mascota"> JavaStrip </i>'
+        '<i class="tecnologias"> HTML5 </i> ',
+        '<i class="tecnologias"> CSS3 </i> ', 
+        '<i class="tecnologias"> Sass </i> ', 
+        '<i class="tecnologias"> Bootstrap </i>',
+        '<i class="tecnologias"> JavaStript </i>'
     ],
     
     stringsElement: '#cadenas-texto', // ID del elemento que contiene cadenas de texto a mostrar.
